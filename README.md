@@ -1,7 +1,8 @@
-### Hi there 👋, I am adon
-#### Blockchain Developer
+
 ![Blockchain Developer](https://avatars.githubusercontent.com/u/74586661?v=4)
 
+### Hi there 👋, I am adon
+#### Blockchain Developer
 I am a blockchain developer
 
 Skills: HTML / CSS / JAVASCRIPT / SOLIDITY / PYTHON  / C++
