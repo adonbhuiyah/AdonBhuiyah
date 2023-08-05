@@ -1,6 +1,7 @@
-### Hi there 👋, I am adon
+
 ![](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)
 
+# Hi there 👋, I am adon
 
 Skills: HTML / CSS / JS 
 
@@ -12,7 +13,7 @@ Skills: HTML / CSS / JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonbhuiyan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adonbhuiyan&show_icons=true)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adonbhuiyan)  
 
