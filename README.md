@@ -16,4 +16,4 @@ Skills: HTML / CSS / JS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adonbhuiyan)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adon&theme=dark&show_icons=true)
