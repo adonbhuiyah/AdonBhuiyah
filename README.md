@@ -1,26 +1,31 @@
+# Hi there, I'm Adon! 👋
 
-![](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)
+I'm a passionate programmer on a journey to become a blockchain developer. My current focus is on learning JavaScript, and I have a strong foundation in HTML and CSS. I'm excited about the possibilities that blockchain technology offers and eager to contribute to the decentralized future.
 
-# Hi there 👋, I am adon
+## 🔧 Technologies & Tools
 
-## 👨‍💻 Skills & Experiance: 
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-✅ JavaScript <br>
-✅ Bootstrap <br>
-✅ HTML5  <br>
-✅ CSS3
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JS
+- Blockchain Development
+- Solidity
+- Smart Contracts
 
+## 📫 Connect with Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonbhuiyan&layout=compact)
+[![Facebook](https://img.shields.io/badge/Facebook-adon6-blue)](https://www.facebook.com/adon6)
+[![Twitter](https://img.shields.io/badge/Twitter-adonbhuiyan-blue)](https://www.twitter.com/adonbhuiyan)
 
+## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 
+## 📊 Language Usage
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adonbhuiyan)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adon&theme=dark&show_icons=true)
 
 
