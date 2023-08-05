@@ -13,7 +13,7 @@ Skills: HTML / CSS / JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonbhuiyan)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://twitter.com/adonbhuiyan"/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adonbhuiyan)  
 
