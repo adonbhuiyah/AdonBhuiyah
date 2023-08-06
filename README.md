@@ -1,4 +1,5 @@
-# Hi there, I'm Adon! 👋
+# Hi there, I'm Adon! ![Moving Hand Icon](https://images.emojiterra.com/google/noto-emoji/unicode-15/color/share/1f44b.jpg)
+
 
 I'm a passionate programmer on a journey to become a blockchain developer. My current focus is on learning JavaScript, and I have a strong foundation in HTML and CSS. I'm excited about the possibilities that blockchain technology offers and eager to contribute to the decentralized future.
 
