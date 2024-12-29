@@ -16,13 +16,6 @@ I'm a passionate programmer on a journey to become a blockchain developer. My cu
 - mongoDB
 - tailwindcss
 
-## 📫 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-adon6-blue)](https://www.facebook.com/adon6)
-[![Twitter](https://img.shields.io/badge/Twitter-adonbhuiyan-blue)](https://www.twitter.com/adonbhuiyah)
-[![Linkedin](https://img.shields.io/badge/Linkedin-adonbhuiyan-blue)](https://www.linkedin.com/in/adonbhuiyah)
-[![Instagram](https://img.shields.io/badge/Instagram-adonbhuiyan-blue)](https://www.instagram.com/adonbhuiyah)
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
