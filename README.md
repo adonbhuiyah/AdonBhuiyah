@@ -124,9 +124,3 @@ This passion drives me to stay on top of cutting-edge technologies and continuou
 💬 Let’s build something powerful together.
 📩 Ready to start your project? I’m just a message away.
 
-
-## 📊 Language Usage
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
-
