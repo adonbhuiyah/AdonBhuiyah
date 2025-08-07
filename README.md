@@ -1,4 +1,8 @@
-# Hello, I'm Adon Bhuiyah! <img src="https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/hello.gif" width="28px" alt="hi">
+<img src="https://github.com/adonbhuiyah/AdonBhuiyah/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a797730546e686541474e2d4c506e654461546c6178772e676966.gif" alt="Adon Bhuiyah Banner" width="100%" />
+
+
+
+# Hello, I'm Adon Bhuiyah! <img src="https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/hello.gif" width="36px" alt="hi">
 
 
 A Passionate, Full-Time Full-Stack JavaScript Developer with Real-World experience in building Modern, Responsive, and High-Performance Websites and Web Applications. I specialize in crafting end-to-end digital solutions, from clean and intuitive Front-End interfaces to secure, scalable, and optimized Back-End systems.
@@ -41,6 +45,7 @@ With every project, my focus is on :
 
 ⚙️ Frontend Development :
 
+
 💻 HTML, CSS, JavaScript (ES6+)
 
 🎨 Tailwind CSS for rapid UI development
@@ -74,53 +79,27 @@ With every project, my focus is on :
 🔄 DevOps & CI/CD practices to streamline testing and deployment pipelines
 
 
-💡 Why Clients Choose Me?
-
-I strive to go beyond just writing code—I aim to solve real problems with effective and sustainable solutions. Here’s what sets me apart :
-
-🔐 Security-first development — I prioritize data safety and best practices.
-
-📱 Pixel-perfect & mobile-first UIs — I craft interfaces that look great on all devices.
-
-🔄 Full lifecycle support — From project scoping to production deployment.
-
-🗣️ Transparent communication — Regular updates and open collaboration.
-
-👥 Team player — Proven experience in Long-Term team environments.
-
-Whether you’re launching a new idea or scaling an existing product, I’ll ensure your vision becomes reality with solid technology and high-quality implementation.
-
-
 🌐 Portfolio & Website
 
 Want to see the kind of work I do?
 
-Feel free to visit my personal portfolio at :
+Feel free to visit my Personal Website at :
 
 🔗 adonr.dev
 
+### 🚀 Featured Projects
 
-🎯 What’s Next for Me
+- 🎮 [**DeepSeek AI Clone**](https://deepseek-adon.vercel.app/) ---- 💬 Built a sleek, multilingual AI chat interface inspired by modern assistants — featuring smart responses, session history, and emoji-enhanced UX.
+🌐 Powered by DeepSeek AI with a dark UI theme, responsive layout, and smooth chat interactions.
 
-While I continue working as a full-time full-stack developer, I’m also exploring the world of Solana Core Development and blockchain infrastructure. My long-term goal is to become a contributor to Solana’s ecosystem and dive deeper into decentralized systems and smart contract protocols.
+- 🧠 [**Pulse Robot Project**](https://pulse-robot-adon.vercel.app/) ---- Developed the Front-End for Pulse Robot, a Solana-based AI robotics platform featuring a humanoid robot with adaptive learning. Built with React, Next.js & Tailwind CSS, showcasing $ROBOT tokenomics, live chat, and crypto wallet integration.
 
-This passion drives me to stay on top of cutting-edge technologies and continuously expand my capabilities.
+- 🛒 [**AI Chatbot App – Pulse Robot**](https://atlas-ai-adon.vercel.app/) ---- 🚀 Built a Full-Stack AI Chatbot App with Next.js, React, Node.js, Express & MongoDB — featuring “Atlas”, a smart Q&A bot in a sleek, responsive UI.
+💬 Includes chat history, crypto launch CTA, and session-based AI interaction — optimized for performance, scalability, and UX.
+
+- 🎮 [**Chill Guy 2.0 – Crypto Token Website**](https://chillguy-adon.vercel.app/) ---- 🚀 Built a modern, responsive website for Chill Guy 2.0 using React, Next.js, Tailwind CSS, and Vite, featuring tokenomics, MetaMask/Uniswap guides, and Ethereum contract integration.
+ Optimized for speed, SEO, and mobile-first UX with clean UI and community-focused design.
 
 
-👥 Available For :
 
-✅ Short-term projects & MVPs
-
-✅ Long-term team-based collaborations
-
-✅ eCommerce, SaaS platforms, APIs
-
-✅ Crypto and blockchain websites
-
-✅ Dashboards, admin panels, and more
-
-✅ Memecoin sites, landing pages, blogs, portfolios
-
-💬 Let’s build something powerful together.
-📩 Ready to start your project? I’m just a message away.
 
