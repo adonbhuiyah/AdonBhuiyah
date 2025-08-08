@@ -30,7 +30,7 @@ Over the years, I’ve worked on and delivered a wide variety of digital product
 
 I’ve also been part of a Long-Term collaboration with a Crypto-Focused Team, where I contributed to launching multiple Blockchain-Related Platforms. These experiences taught me the importance of clean code, strong team communication, and agile development.
 
-With every project, my focus is on :
+### with every project, my focus is on :
 
 ✅ Writing scalable and clean code
 
@@ -41,9 +41,9 @@ With every project, my focus is on :
 ✅ Delivering a smooth and accessible user experience
 
 
-🧠 My Tech Stack
+# 🧠 My Tech Stack
 
-🌐 Front-End
+### 🌐 Front-End
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -55,7 +55,7 @@ With every project, my focus is on :
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
-🖥️ Back-End & Server
+### 🖥️ Back-End & Server
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -63,7 +63,7 @@ With every project, my focus is on :
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![Server Hosting](https://img.shields.io/badge/-Server_Hosting-FF6C37?style=flat-square)
 
-🛠️ Dev Tools
+### 🛠️ Dev Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -75,8 +75,7 @@ With every project, my focus is on :
 
 
 
-
-🌐 Portfolio & Website
+# 🌐 Personal Website
 
 Want to see the kind of work I do?
 
@@ -84,7 +83,7 @@ Feel free to visit my Personal Website at :
 
 🔗 adonr.dev
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
 - 🎮 [**DeepSeek AI Clone**](https://deepseek-adon.vercel.app/) ---- 💬 Built a sleek, multilingual AI chat interface inspired by modern assistants — featuring smart responses, session history, and emoji-enhanced UX.
 🌐 Powered by DeepSeek AI with a dark UI theme, responsive layout, and smooth chat interactions.
@@ -103,6 +102,7 @@ Feel free to visit my Personal Website at :
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AdonBhuiyah)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdonBhuiyah)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/AdonBhuiyah)
+[![Facebook](https://img.shields.io/badge/-Facebook-E4405F?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/AdonBhuiyah)
 
 
 
