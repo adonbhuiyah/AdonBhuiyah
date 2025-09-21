@@ -99,8 +99,6 @@ Feel free to visit my Personal Website at :
 
 - 🎮 [**$LOLO**](https://adonr.dev/projects/lolo) ---- Street Culture Meets Lightning-Fast DeFi.
 
-- 🎮 [**Admin Dashboard**](https://adonr.dev/projects/admin-dashboard) ---- A modern admin dashboard interface with user management, analytics, and system monitoring features. Includes navigation panels, status metrics, and notification sections.
-
 - 🎮 [**$TARIFF**](https://adonr.dev/projects/tariff) ---- Make Every Trade Pay. Maximizing Gains, One Tariff at a Time.
 
 # 🤝 Let's Connect!
