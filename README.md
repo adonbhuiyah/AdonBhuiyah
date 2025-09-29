@@ -86,20 +86,20 @@ Feel free to visit my Personal Website at :
 
 # ✨ Featured Projects
 
-- 🎮 [**DeepSeek AI Clone**](https://adonr.dev/projects/deepseek) ---- 💬 Built a sleek, multilingual AI chat interface inspired by modern assistants — featuring smart responses, session history, and emoji-enhanced UX.
+- 🎮 [**DeepSeek AI Clone**](https://deepseek.adonr.dev) ---- 💬 Built a sleek, multilingual AI chat interface inspired by modern assistants — featuring smart responses, session history, and emoji-enhanced UX.
 🌐 Powered by DeepSeek AI with a dark UI theme, responsive layout, and smooth chat interactions.
 
-- 🧠 [**Pulse Robot Project**](https://adonr.dev/projects/pulse-robot) ---- Developed the Front-End for Pulse Robot, a Solana-based AI robotics platform featuring a humanoid robot with adaptive learning. Built with React, Next.js & Tailwind CSS, showcasing $ROBOT tokenomics, live chat, and crypto wallet integration.
+- 🧠 [**Pulse Robot Project**](https://pulse-robot.adonr.dev) ---- Developed the Front-End for Pulse Robot, a Solana-based AI robotics platform featuring a humanoid robot with adaptive learning. Built with React, Next.js & Tailwind CSS, showcasing $ROBOT tokenomics, live chat, and crypto wallet integration.
 
-- 🛒 [**AI Chatbot App – Pulse Robot**](https://adonr.dev/projects/atlas-ai) ---- 🚀 Built a Full-Stack AI Chatbot App with Next.js, React, Node.js, Express & MongoDB — featuring “Atlas”, a smart Q&A bot in a sleek, responsive UI.
+- 🛒 [**AI Chatbot App**](https://atlas-chat.adonr.dev) ---- 🚀 Built a Full-Stack AI Chatbot App with Next.js, React, Node.js, Express & MongoDB — featuring “Atlas”, a smart Q&A bot in a sleek, responsive UI.
 💬 Includes chat history, crypto launch CTA, and session-based AI interaction — optimized for performance, scalability, and UX.
 
-- 🎮 [**Chill Guy 2.0 – Crypto Token Website**](https://adonr.dev/projects/chill-guy) ---- 🚀 Built a modern, responsive website for Chill Guy 2.0 using React, Next.js, Tailwind CSS, and Vite, featuring tokenomics, MetaMask/Uniswap guides, and Ethereum contract integration.
+- 🎮 [**Chill Guy – Crypto Token Website**](https://chillguy.adonr.dev) ---- 🚀 Built a modern, responsive website for Chill Guy 2.0 using React, Next.js, Tailwind CSS, and Vite, featuring tokenomics, MetaMask/Uniswap guides, and Ethereum contract integration.
  Optimized for speed, SEO, and mobile-first UX with clean UI and community-focused design.
 
-- 🎮 [**$LOLO**](https://adonr.dev/projects/lolo) ---- Street Culture Meets Lightning-Fast DeFi.
+- 🎮 [**$LOLO SOL - Crypto Token Website**](https://lolosol.adonr.dev) ---- Street Culture Meets Lightning-Fast DeFi.
 
-- 🎮 [**$TARIFF**](https://adonr.dev/projects/tariff) ---- Make Every Trade Pay. Maximizing Gains, One Tariff at a Time.
+- 🎮 [**$TARIFF - Crypto Token Website**](https://tariff-coin.adonr.dev) ---- Make Every Trade Pay. Maximizing Gains, One Tariff at a Time.
 
 # 🤝 Let's Connect!
 
